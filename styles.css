@@ -3,7 +3,29 @@ h1{
     background-color: antiquewhite;
 }
 
-body{
-    background-color: brown;
+.topnav{
+    background-color: black;
+    overflow: hidden;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.topnav a{
+    float: left;
+    color: aqua;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 18px;
+
+}
+
+.topnav a:hover{
+    background-color: white;
+}
+
+.topnav a:active{
+    background-color: #04AA6D;
+    color: white;
 }
 
