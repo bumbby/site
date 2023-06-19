@@ -4,7 +4,7 @@ h1{
 }
 
 .topnav{
-    background-color: black;
+    background-color: mintcream;
     overflow: hidden;
     border-radius: 5px;
     display: flex;
@@ -29,3 +29,6 @@ h1{
     color: white;
 }
 
+body{
+    background-color: #04AA6D;
+}
