@@ -4,7 +4,7 @@ h1{
 }
 
 .topnav{
-    background-color: mintcream;
+    background-color: navajowhite;
     overflow: hidden;
     border-radius: 5px;
     display: flex;
@@ -13,15 +13,17 @@ h1{
 
 .topnav a{
     float: left;
-    color: aqua;
+    color: black;
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 10px;
     font-size: 18px;
-
+    border-radius: 5px;
+    background-color: cadetblue;
+    margin: 10px 10px;
 }
 
 .topnav a:hover{
-    background-color: white;
+    background-color: yellow;
 }
 
 .topnav a:active{
