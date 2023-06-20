@@ -34,3 +34,10 @@ h1{
 body{
     background-color: #04AA6D;
 }
+
+.bio{
+    color: black;
+    display: flex;
+    justify-content: left;
+;
+}
